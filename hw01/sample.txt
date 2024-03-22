@@ -1,2 +1,7 @@
 -> => == === != =/= <= >= <=> 
+かいそく寝台列車
+ぶぶんしていせき
 Sleeper AllReserved GreenReserved LimitedSleeper
+ぐりーんしゃしていせき新函館北斗駅
+
+ぐらんくらす
